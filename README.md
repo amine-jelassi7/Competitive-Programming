@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0268-missing-number) |
 | [1256-rank-transform-of-an-array](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1386-shift-2d-grid](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1386-shift-2d-grid) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0268-missing-number) |
 | [1256-rank-transform-of-an-array](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3799-unique-3-digit-even-numbers](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/3799-unique-3-digit-even-numbers) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0268-missing-number) |
 | [0866-rectangle-overlap](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0866-rectangle-overlap) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2235-add-two-integers](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/2235-add-two-integers) |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0268-missing-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1839-decode-xored-array](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1839-decode-xored-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
@@ -231,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -268,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0268-missing-number) |
 | [1256-rank-transform-of-an-array](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [4107-find-missing-elements](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/4107-find-missing-elements) |
 ## Dynamic Programming
