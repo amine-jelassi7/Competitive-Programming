@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0039-combination-sum) |
 | [0095-unique-binary-search-trees-ii](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Counting
