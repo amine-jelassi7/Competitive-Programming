@@ -7,7 +7,6 @@ void solve() {
 }
 
 int main() {
-    // Fast I/Os
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
     
