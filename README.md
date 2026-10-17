@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [2481-strictly-palindromic-number](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/2481-strictly-palindromic-number) |
 ## String
 |  |
 | ------- |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2235-add-two-integers](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
+| [2481-strictly-palindromic-number](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/2481-strictly-palindromic-number) |
 | [4168-mirror-distance-of-an-integer](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/4168-mirror-distance-of-an-integer) |
 | [4321-digit-frequency-score](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/4321-digit-frequency-score) |
 ## Bit Manipulation
@@ -349,4 +351,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
