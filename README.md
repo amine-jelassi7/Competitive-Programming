@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0268-missing-number) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0039-combination-sum) |
+| [0089-gray-code](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0089-gray-code) |
 | [0095-unique-binary-search-trees-ii](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Counting
