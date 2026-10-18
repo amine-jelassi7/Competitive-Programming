@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0071-simplify-path) |
+| [0412-fizz-buzz](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0742-to-lower-case](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0742-to-lower-case) |
 | [1078-remove-outermost-parentheses](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0412-fizz-buzz) |
 | [0866-rectangle-overlap](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0866-rectangle-overlap) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2235-add-two-integers](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/2235-add-two-integers) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0412-fizz-buzz) |
 | [1386-shift-2d-grid](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1386-shift-2d-grid) |
 ## Binary Search
 |  |
