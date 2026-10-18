@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0268-missing-number) |
 | [0866-rectangle-overlap](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0866-rectangle-overlap) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0258-add-digits) |
 | [1386-shift-2d-grid](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1386-shift-2d-grid) |
 ## Binary Search
 |  |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 ## Backtracking
 |  |
