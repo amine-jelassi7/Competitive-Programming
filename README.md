@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0507-perfect-number) |
+| [0728-self-dividing-numbers](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0728-self-dividing-numbers) |
 | [0866-rectangle-overlap](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0866-rectangle-overlap) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2235-add-two-integers](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/2235-add-two-integers) |
