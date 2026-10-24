@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0067-add-binary) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0095-unique-binary-search-trees-ii](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0039-combination-sum) |
 | [0089-gray-code](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0089-gray-code) |
 | [0095-unique-binary-search-trees-ii](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 ## Greedy
