@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0071-simplify-path) |
+| [0131-palindrome-partitioning](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0131-palindrome-partitioning) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0131-palindrome-partitioning) |
 | [0678-valid-parenthesis-string](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 ## Matrix
 |  |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0039-combination-sum) |
 | [0089-gray-code](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0089-gray-code) |
 | [0095-unique-binary-search-trees-ii](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0131-palindrome-partitioning](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0131-palindrome-partitioning) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Counting
 |  |
