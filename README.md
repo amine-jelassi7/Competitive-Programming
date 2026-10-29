@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3799-unique-3-digit-even-numbers](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/3799-unique-3-digit-even-numbers) |
 | [4107-find-missing-elements](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/4107-find-missing-elements) |
+| [4271-find-the-degree-of-each-vertex](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/4271-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
 | ------- |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [1386-shift-2d-grid](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1386-shift-2d-grid) |
+| [4271-find-the-degree-of-each-vertex](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/4271-find-the-degree-of-each-vertex) |
 ## Combinatorics
 |  |
 | ------- |
@@ -376,4 +378,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/2481-strictly-palindromic-number) |
+## Graph Theory
+|  |
+| ------- |
+| [4271-find-the-degree-of-each-vertex](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/4271-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
