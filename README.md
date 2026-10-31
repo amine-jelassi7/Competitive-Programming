@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1839-decode-xored-array](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1839-decode-xored-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3799-unique-3-digit-even-numbers](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/3799-unique-3-digit-even-numbers) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [4107-find-missing-elements](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/4107-find-missing-elements) |
 | [4271-find-the-degree-of-each-vertex](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/4271-find-the-degree-of-each-vertex) |
 ## Hash Table
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2481-strictly-palindromic-number](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/2481-strictly-palindromic-number) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [4168-mirror-distance-of-an-integer](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/4168-mirror-distance-of-an-integer) |
 | [4321-digit-frequency-score](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/4321-digit-frequency-score) |
 ## Bit Manipulation
