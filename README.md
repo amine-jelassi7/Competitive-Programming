@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0148-sort-list) |
@@ -384,4 +387,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4271-find-the-degree-of-each-vertex](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/4271-find-the-degree-of-each-vertex) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
