@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0283-move-zeroes) |
 | [1256-rank-transform-of-an-array](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1386-shift-2d-grid](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1386-shift-2d-grid) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0283-move-zeroes) |
 | [2481-strictly-palindromic-number](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/2481-strictly-palindromic-number) |
 ## String
 |  |
