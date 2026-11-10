@@ -1,5 +1,6 @@
 #include <iostream>
 
+//add more alias if needed 
 using namespace std;
 
 void solve() {
@@ -7,7 +8,6 @@ void solve() {
 }
 
 int main() {
-    // Fast I/Os
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
     

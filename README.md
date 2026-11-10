@@ -11,6 +11,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
@@ -19,15 +21,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0283-move-zeroes) |
 | [1256-rank-transform-of-an-array](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1386-shift-2d-grid](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1386-shift-2d-grid) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1732-find-the-highest-altitude](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1839-decode-xored-array](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1839-decode-xored-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3799-unique-3-digit-even-numbers](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/3799-unique-3-digit-even-numbers) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [4107-find-missing-elements](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/4107-find-missing-elements) |
+| [4271-find-the-degree-of-each-vertex](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/4271-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
@@ -76,6 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0283-move-zeroes) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2481-strictly-palindromic-number](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/2481-strictly-palindromic-number) |
 ## String
 |  |
@@ -83,10 +92,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0071-simplify-path) |
+| [0131-palindrome-partitioning](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0131-palindrome-partitioning) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0742-to-lower-case](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0742-to-lower-case) |
 | [1078-remove-outermost-parentheses](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
@@ -207,12 +220,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0268-missing-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0412-fizz-buzz) |
+| [0507-perfect-number](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0507-perfect-number) |
+| [0728-self-dividing-numbers](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0728-self-dividing-numbers) |
 | [0866-rectangle-overlap](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0866-rectangle-overlap) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2235-add-two-integers](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2481-strictly-palindromic-number](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/2481-strictly-palindromic-number) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [4168-mirror-distance-of-an-integer](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/4168-mirror-distance-of-an-integer) |
 | [4321-digit-frequency-score](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/4321-digit-frequency-score) |
 ## Bit Manipulation
@@ -220,11 +239,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0268-missing-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1839-decode-xored-array](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1839-decode-xored-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
@@ -234,6 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0412-fizz-buzz) |
 | [1386-shift-2d-grid](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1386-shift-2d-grid) |
 ## Binary Search
 |  |
@@ -241,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0268-missing-number) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -274,16 +298,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0268-missing-number) |
 | [1256-rank-transform-of-an-array](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [4107-find-missing-elements](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/4107-find-missing-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0095-unique-binary-search-trees-ii](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
@@ -291,12 +318,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0131-palindrome-partitioning) |
 | [0678-valid-parenthesis-string](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [1386-shift-2d-grid](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1386-shift-2d-grid) |
+| [4271-find-the-degree-of-each-vertex](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/4271-find-the-degree-of-each-vertex) |
 ## Combinatorics
 |  |
 | ------- |
@@ -304,13 +333,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0089-gray-code) |
 | [0095-unique-binary-search-trees-ii](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0131-palindrome-partitioning](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0131-palindrome-partitioning) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Counting
 |  |
@@ -327,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 ## Greedy
@@ -355,4 +389,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/2481-strictly-palindromic-number) |
+## Graph Theory
+|  |
+| ------- |
+| [4271-find-the-degree-of-each-vertex](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/4271-find-the-degree-of-each-vertex) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
