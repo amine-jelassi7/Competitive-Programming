@@ -2,6 +2,7 @@
 // Created by amine on 16/11/2026.
 //
 #include <bits/stdc++.h>
+#include <algorithm>
 using namespace std;
 
 using ll = long long;
@@ -29,6 +30,25 @@ void solve() {
     for (int i = 0; i < n; i++) {
         cin >> a[i];
     }
+
+    vector<pair<int, int>> array(n) ;
+    for (int i = 0; i < n; i++) {
+        int remainder ;
+        a[i]%k ==0 ? remainder = k : remainder = a[i]%k ;
+        array[i] = {remainder, i+1} ;
+    }
+    sort(array.begin(), array.end(), [](const pair<int, int>& a, const pair<int, int>& b) {
+        if (a.first == b.first) {
+            return a.second < b.second;
+        }
+        return a.first > b.first;
+    });
+
+
+    for (int i=0; i<n; i++) {
+        cout << array[i].second << " ";
+    }
+    cout <<'\n';
 
 
 }
