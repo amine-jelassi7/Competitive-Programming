@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0283-move-zeroes) |
+| [0561-array-partition](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0561-array-partition) |
 | [1256-rank-transform-of-an-array](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1386-shift-2d-grid](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1386-shift-2d-grid) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0268-missing-number) |
+| [0561-array-partition](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0561-array-partition) |
 | [1256-rank-transform-of-an-array](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [4107-find-missing-elements](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/4107-find-missing-elements) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 ## Enumeration
 |  |
@@ -401,4 +404,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0075-sort-colors) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/amine-jelassi7/Competitive-Programming/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
